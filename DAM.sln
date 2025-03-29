@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAM", "DAM.csproj", "{10D19DC1-70DB-4F9F-B359-1BFCEA458F07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAMTest", "..\DAMTest\DAMTest.csproj", "{AF70BC0B-5DCB-4924-9175-436478A71EE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10D19DC1-70DB-4F9F-B359-1BFCEA458F07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10D19DC1-70DB-4F9F-B359-1BFCEA458F07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10D19DC1-70DB-4F9F-B359-1BFCEA458F07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10D19DC1-70DB-4F9F-B359-1BFCEA458F07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF70BC0B-5DCB-4924-9175-436478A71EE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF70BC0B-5DCB-4924-9175-436478A71EE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF70BC0B-5DCB-4924-9175-436478A71EE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF70BC0B-5DCB-4924-9175-436478A71EE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {123044A3-DB9F-4C57-B2CA-35E836FD8089}
+	EndGlobalSection
+EndGlobal
